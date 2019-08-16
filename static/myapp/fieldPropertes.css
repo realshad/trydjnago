@@ -1,7 +1,7 @@
 /* Fields Property */
 
 .fieldRequired{
-background-color:yellow;
+background-color:red;
               border: solid 1px #6E6E6E;
               height: 30px;
               font-size:18px;
