@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+<body class="container">
+{% block content %}
+<h1> This Product Raw  Create Page</h1>
+
+<form action='.' method='POST'> {% csrf_token %}
+    <div class="row">
+    <input type="text" name ="title" placeholder="your title" /> <br>
+    <input type="text" name ="description" placeholder="Description" /> <br>
+    <input type="number" name ="price" placeholder="Price" />
+    <input type='submit' value='save' >
+    </div>
+</form>
+
+<label class="fileContainer">
+    Click here to trigger the file uploader!
+    <input type="file"/>
+</label>
+
+{% endblock %}
+</body>

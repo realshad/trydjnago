@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block title %}
+<title>rawhtml</title>
+    {% endblock %}
+{% block content %}
+<h1> This is Abount page</h1>
+<p1> This is template</p1>
+
+<p2> {{ my_text }} : {{  my_number }} </p2>
+<p3>
+  {% for sub_list in my_list %}
+	<li>{{ sub_list }}</li>
+{% endfor %}
+</p3>
+    {% endblock %}

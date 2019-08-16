@@ -1,0 +1,8 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1> Product Live View</h1>
+{% for instance in objectList %}
+<p> {{ instance.id }} - <a href='{{ instance.get_absolute_url }}'> {{ instance.title }} </a>
+    - {{ instance.description }} - {{ instance.price}}--{{ instance.get_absolute_url }} </p>
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1> This Product Create Page</h1>
+{% load static %}
+
+<label class="fileContainer">
+    Click here to trigger the file uploader!
+    <input type="file"/><br>
+</label>
+
+<label class="inputfields">
+<input type="text" />
+</label>
+
+
+<form  action=' ' method='POST'> {% csrf_token %}
+{{ form.as_p }}
+<input class="input" type='submit' value='save' >
+</form>
+{% endblock %}

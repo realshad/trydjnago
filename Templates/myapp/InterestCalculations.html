@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+<body class="container">
+{% block content %}
+<h1> This Product Raw  Create Page</h1>
+
+<form action='.' method='POST'> {% csrf_token %}
+    <div class="row">
+     <input type="number" id="Price" name ="Price" placeholder="Enter Price" value="{{ p }}"/>
+        <input type="number" id="Time" name ="Time" placeholder="Enter Time" value="{{ t }}" />
+        <input type="float" id="Rate" name ="Rate" placeholder="Enter Rate of interest" value="{{ r }}" />
+        <input type="number" id="Calcval" name ="calval" placeholder="Enter Rate of interest"  value="{{ cal_val }}"/>
+
+    <input type='submit' name="save" value='save' >
+    <input type='submit' id="Calc" name="Calc" value='Calc' >
+    </div>
+</form>
+{% endblock %}

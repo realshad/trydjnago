@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{%load staticfiles %}
+{% load static %}
+
+{% block title %}
+<title>Car Details</title>
+
+{% endblock %}
+{% block content %}
+<form>
+    {% for instance in obj %}
+    {{ instance.name}}
+<img class="imgSqrWithBorder" src="/media/{{ instance.photo}}" alt="Car"><br>
+{% endfor %}
+    </form>
+{% endblock %}

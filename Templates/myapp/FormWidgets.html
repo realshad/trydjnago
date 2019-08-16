@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{%load staticfiles %}
+{% load static %}
+{% block title %}
+<title>Form Widget</title>
+{% endblock %}
+{% block content %}
+<h1>select widgets</h1>
+    {{ form.as_p }}
+{% endblock %}
