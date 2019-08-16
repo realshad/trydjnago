@@ -9,7 +9,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Templates/myapp/Prod_PureDjangoForm_CRUD.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,6 +70,7 @@
         <option value="$PROJECT_DIR$/myapp/mycalc.py" />
         <option value="$PROJECT_DIR$/myapp/Templates/prod_ModelForm_crud_Operations.html" />
         <option value="$PROJECT_DIR$/myapp/Templates/InterestCalculations.html" />
+        <option value="$PROJECT_DIR$/myapp/FirstAutomateTest.py" />
         <option value="$PROJECT_DIR$/static/custom1.css" />
         <option value="$PROJECT_DIR$/myapp/static/style.css" />
         <option value="$PROJECT_DIR$/myapp/Templates/FormWidgets.html" />
@@ -90,11 +101,10 @@
         <option value="$PROJECT_DIR$/static/FormCusto/css/fieldPropertes1.css" />
         <option value="$PROJECT_DIR$/static/myapp/myapp.css" />
         <option value="$PROJECT_DIR$/static/myapp/fieldPropertes.css" />
-        <option value="$PROJECT_DIR$/myapp/FirstAutomateTest.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -116,7 +126,18 @@
             <path>
               <item name="tryjango" type="b2602c69:ProjectViewProjectNode" />
               <item name="tryjango" type="462c0819:PsiDirectoryNode" />
-              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="Templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tryjango" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tryjango" type="462c0819:PsiDirectoryNode" />
+              <item name="Templates" type="462c0819:PsiDirectoryNode" />
+              <item name="FormWidgets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tryjango" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tryjango" type="462c0819:PsiDirectoryNode" />
+              <item name="tryjango" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,8 +147,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/FormCusto" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -170,7 +190,6 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/FirstAutomateTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -196,46 +215,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564805686641</updated>
-      <workItem from="1565937675889" duration="283000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="283000" />
-  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21331316" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21559633" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.2431562" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.27207208" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.84942716" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.6072072" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.49114332" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.492635" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tryjango$FirstAutomateTest.coverage" NAME="FirstAutomateTest Coverage Results" MODIFIED="1565937914036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp" />
-  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myapp/Templates/raw_update.py" />
     <entry file="file://$PROJECT_DIR$/myapp/Templates/editor.py" />
     <entry file="file://$PROJECT_DIR$/myapp/Templates/editor.html" />
     <entry file="file://$PROJECT_DIR$/Templates/myapp/Prod_raw_delete.html">
@@ -272,11 +278,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/admin/css/fonts.css" />
-    <entry file="file://$PROJECT_DIR$/static/admin/css/widgets.css" />
-    <entry file="file://$PROJECT_DIR$/static/admin/css/vendor/select2/select2.css" />
-    <entry file="file://$PROJECT_DIR$/static/admin/css/autocomplete.css" />
-    <entry file="file://$PROJECT_DIR$/static/admin/css/login.css" />
+    <entry file="file://$PROJECT_DIR$/static/admin/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/css/widgets.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/css/vendor/select2/select2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret column="18" selection-start-column="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/css/autocomplete.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Templates/myapp/Prod_PureDjangoFormCreate.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -284,8 +314,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" />
-    <entry file="file://$PROJECT_DIR$/static/admin/css/base.css" />
+    <entry file="file://$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="743" column="1" lean-forward="true" selection-end-line="987" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/static/Custom.css" />
     <entry file="file://$PROJECT_DIR$/Templates/myapp/Product_Create_formValidate.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -308,7 +346,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/custom2.css" />
+    <entry file="file://$PROJECT_DIR$/static/custom2.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Templates/myapp/InterestCalculations.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -316,10 +356,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/static/myapp/style.css" />
-    <entry file="file://$PROJECT_DIR$/static/myapp/style.css" />
-    <entry file="file://$PROJECT_DIR$/static/myapp/custom1.css" />
-    <entry file="file://$PROJECT_DIR$/static/css/base.css" />
+    <entry file="file://$PROJECT_DIR$/myapp/FirstAutomateTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/static/myapp/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="100" column="1" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/myapp/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/myapp/custom1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="31" column="21" lean-forward="true" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Templates/myapp/staticsfielsExample.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -327,7 +397,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/myapp/image.css" />
+    <entry file="file://$PROJECT_DIR$/static/myapp/image.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Templates/myapp/FormWidgets.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -410,8 +486,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/FormCusto/css/fieldPropertes1.css" />
-    <entry file="file://$PROJECT_DIR$/static/myapp/myapp.css" />
+    <entry file="file://$PROJECT_DIR$/static/FormCusto/css/fieldPropertes1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/myapp/myapp.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Templates/FormWidgets/ChoiceField.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -446,7 +534,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/myapp/fieldPropertes.css" />
+    <entry file="file://$PROJECT_DIR$/static/myapp/fieldPropertes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FormsCustomize/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -464,6 +558,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tryjango/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="128" column="65" selection-start-line="128" selection-start-column="55" selection-end-line="128" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
@@ -473,32 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Templates/myapp/Prod_PureDjangoForm_CRUD.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tryjango/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="124" column="19" lean-forward="true" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Python37/Lib/site-packages/selenium/webdriver/common/service.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/FirstAutomateTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="283">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,38 @@
+.centered {
+  position: fixed; /* or absolute */
+  left: 50%;
+}
+.div1{
+background-color: blue;
+border: 5px solid black;
+padding: 25px;
+margin: 20px;
+}
+.rcorners2 {
+border-radius: 25px;
+border: 2px solid #73AD21;
+padding: 20px;
+background-color: #e5eecc;
+}
+.rcorners1 {
+  border-radius: 10px;
+  padding: 10px;
+  background-color: lightgrey;
+}
+
+.topnav {
+  overflow: hidden;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+}
